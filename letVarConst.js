@@ -172,7 +172,7 @@
 // console.log(i); //error
 
 
-//var and const in for loop
+// var and const in for loop
 var i=10;
 for(const i=0;i<5;i++){
     console.log(i);  
