@@ -31,3 +31,9 @@ const student={
 };
 console.log(student);  // prints student obj
 console.log(student.name); // prints name
+
+
+const english=(marks)=>{
+    console.log("hy",marks);
+}
+english(8);
